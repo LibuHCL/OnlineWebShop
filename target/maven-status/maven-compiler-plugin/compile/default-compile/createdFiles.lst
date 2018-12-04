@@ -1,0 +1,14 @@
+com\idealo\springmvc\configuration\AppConfig.class
+com\idealo\springmvc\configuration\HibernateConfiguration.class
+com\idealo\springmvc\controller\AppController.class
+com\idealo\springmvc\dao\AbstractDao.class
+com\idealo\springmvc\filter\CORSFilter.class
+com\idealo\springmvc\configuration\AppInitializer.class
+com\idealo\springmvc\dao\ICategoryDAO.class
+com\idealo\springmvc\dao\Impl\CategoryDAOImpl.class
+com\idealo\springmvc\model\Category.class
+com\idealo\springmvc\model\Item.class
+com\idealo\springmvc\service\Impl\CategoryServiceImpl.class
+com\idealo\springmvc\controller\WebController.class
+com\idealo\springmvc\service\CategoryService.class
+com\idealo\springmvc\converter\CategoryConverter.class

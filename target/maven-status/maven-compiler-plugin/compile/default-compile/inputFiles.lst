@@ -1,0 +1,14 @@
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\dao\ICategoryDAO.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\model\Item.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\configuration\HibernateConfiguration.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\configuration\AppConfig.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\converter\CategoryConverter.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\dao\Impl\CategoryDAOImpl.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\filter\CORSFilter.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\configuration\AppInitializer.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\controller\WebController.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\model\Category.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\dao\AbstractDao.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\service\CategoryService.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\service\Impl\CategoryServiceImpl.java
+C:\Assessments\OnlineWebShop\src\main\java\com\idealo\springmvc\controller\AppController.java
